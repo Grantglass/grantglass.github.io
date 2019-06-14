@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-**Project Lead:** Charlotte Sussman  [charlotte.sussman@duke.edu]
+**Project Lead:** Grant Glass [grantg@live.unc.edu]
 
-**Project Manager:** Grant Glass [grantg@live.unc.edu]
+
 
 **Student Team:** 
 + Orgil Batzaya [orgil.batzaya@duke.edu]
